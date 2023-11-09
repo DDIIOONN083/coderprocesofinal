@@ -1,0 +1,34 @@
+/**
+ * @Author: Your name
+ * @Date:   2023-10-03 19:36:23
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2023-10-03 22:27:28
+ */
+.navbar{
+    
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding-right: 5%;
+    padding-top: 10px;
+    border-radius: 10%;
+}
+
+.navbar-menu{
+    background-color: aquamarine;
+        display: flex;
+    flex-direction: column;
+    border-radius: 18%;
+}
+
+:hover.title{
+
+   font-size: 30px;
+   padding-left: 20px;
+   padding-top: 10px;
+background-color: aquamarine;
+border-radius: 10%;
+
+}
